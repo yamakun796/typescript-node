@@ -7,5 +7,5 @@ README.md
 .prettierrc
 .gitignore
 .eslintrc.json
-*tar.gz
-*tar
+*.tar.gz
+*.tar
