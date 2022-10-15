@@ -1,2 +1,11 @@
 node_modules
 dist
+Dockerfile
+README.md
+.env
+.git
+.prettierrc
+.gitignore
+.eslintrc.json
+*tar.gz
+*tar
