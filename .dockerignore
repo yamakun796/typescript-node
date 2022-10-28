@@ -2,6 +2,7 @@ node_modules
 dist
 Dockerfile
 README.md
+.vscode
 .env
 .git
 .prettierrc
