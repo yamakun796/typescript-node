@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 16.18.0-slim
+FROM --platform=linux/amd64 node:16.18.0-slim
 RUN npm isntall -g pnpm
 
 WORKDIR /app
